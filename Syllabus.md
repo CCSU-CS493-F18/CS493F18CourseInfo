@@ -36,40 +36,39 @@ _Central Connecticut State University_
 
 > This course supports the following program objectives and program learning outcomes:
 
--   PEO-1: Graduates will have a broad understanding of the fundamental theories, concepts, and applications of computer science.
+-   PEO-1: Graduates will apply a broad understanding of the fundamental theories, concepts, and applications of computer science in their career.
 
-    -   SO-a: An ability to apply knowledge of computing and mathematics appropriate to the discipline.
+    -   SO-1: Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.
 
-    -   SO-b: An ability to analyze a problem, and identify and define the computing requirements appropriate to its solution.
+    -   SO-2: Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.
 
-    -   SO-c: An ability to design, implement, and evaluate a computer-based system, process, component, or program to meet desired needs.
+    -   SO-6: Apply computer science theory and software development fundamentals to produce computing-based solutions.
 
--   PEO-2: Graduates will be prepared for careers in computer science and information technology.
+-   PEO-2: Graduates will be engaged in a wide range of careers and/or graduate studies in computer science or related fields with a passion for lifelong learning.
 
-    -   SO-i: An ability to use current techniques, skills, and tools necessary for computing practice.
+    -   SO-5: Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline.
 
-    -   SO-k: An ability to apply design and development principles in the construction of software systems of varying complexity.
+-   PEO-4: Graduates will act ethically and with social responsibility in their careers.
 
--   PEO3: Graduates will communicate effectively, both orally and in writing.
+    -   SO-4: Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.
 
-    -   SO-d: An ability to function effectively on teams to accomplish a common goal.
 
 
 **Course learning outcomes**
 
 > Program objectives and program learning outcomes are supported by the following course learning outcomes achieved by students upon a successful completion of this course:
 
--   CLO-1: Develop an in depth understanding of the different sources of security threats that impact software systems (a, b, c, k)
+-   CLO-1: Develop an in depth understanding of the different sources of security threats that impact software systems (SO-1,2,4,6)
 
--   CLO-2: Understand different architectural approaches that can be used to create secure software systems (a, i)
+-   CLO-2: Understand different architectural approaches that can be used to create secure software systems (SO-1,2,4)
 
--   CLO-3: Increase understanding of how to execute different types of software analysis to ensure more secure software (a, i, k)
+-   CLO-3: Increase understanding of how to execute different types of software analysis to ensure more secure software (SO-1,2,4)
 
--   CLO-4: Develop an understanding of language-based approaches to building secure software (i, k)
+-   CLO-4: Develop an understanding of language-based approaches to building secure software (SO-1,2,4,6)
 
--   CLO-5: Understand how run-time enforcement mechanisms can protect against software insecurity (a, c, i)
+-   CLO-5: Understand how run-time enforcement mechanisms can protect against software insecurity (SO-1,2,4,6)
 
--   CLO-7: The course will culminate in a large final project that will require working on teams and combining knowledge developed throughout the course (a, b, c, d, i, k)
+-   CLO-7: The course will culminate in a large final project that will require working on teams and combining knowledge developed throughout the course (SO-1,2,4,5,6)
 
 **Grading for the course:**
 
@@ -96,9 +95,9 @@ Finally, I know you are very bright otherwise you wouldn't be here, and I value 
 
 **Final project:** There will be a large final project that will require integrating the knowledge you have gained throughout the semester.  Details on this project will be handed out later in the semester.  At the end of the semester your group will present your project to the class.
 
-There will be a number of interim checkpoints during the semester to ensure you are on track. The final deliverables are due at the beginning of class Monday, December 4th.
+There will be a number of interim checkpoints during the semester to ensure you are on track. The final deliverables are due at the beginning of class Monday, December 3rd.
 
-**Exams:** There will be a midterm and a final exam in addition to a final project. These will focus on whether you have understood the material and learned from your mistakes. The midterm will tentatively be **Wednesday, October 18th TBD** and the final exam will be at the university scheduled time **Monday, December 11th 5:30-7:30pm**. If a student misses the midterm they will receive a 0 unless they have specifically talked with me ahead of time and submit a written request.
+**Exams:** There will be a midterm and a final exam in addition to a final project. These will focus on whether you have understood the material and learned from your mistakes. The midterm will tentatively be **Wednesday, October 17th TBD** and the final exam will be at the university scheduled time **Wednesday, December 12th 5:30-7:30pm**. If a student misses the midterm they will receive a 0 unless they have specifically talked with me ahead of time and submit a written request.
 
 **Attendance:** I expect students to attend class sessions regularly. ***For each absence (unless university excused) over 3 your overall final grade will be reduced by 1/4th of a letter grade. Skipping classes can seriously affect your final grade!*** If you are going to miss class please email me before class. Each student is responsible for making-up any missed study or work on their own. Limited assistance will be offered to those with plausible reasons for absences; unexcused absences result in the student being totally responsible for the make-up process. You are responsible for all announcements and material covered in the event that you do miss class, and should get that information from one of your classmates. In the event of a weather emergency that requires curtailment or cancellation of classes, listen to WTIC (1080 AM) or call (860) 832-3333.
 
@@ -108,11 +107,15 @@ http://www.ccsu.edu/academicintegrity/
 
  Please read it carefully.
 
-**Students with disabilities**: Please contact me privately to discuss your specific needs if you believe you need course accommodations based on the impact of a disability, medical condition, or if you have emergency medical information to share. I will need a copy of the accommodation letter from Student Disability Services in order to arrange your class accommodations. Contact Student Disability Services, Willard Hall, 101-04 if you are not already registered with them. Student Disability Services maintains the confidential documentation of your disability and assists you in coordinating reasonable accommodations with your faculty.
+**Students with disabilities**: Central Connecticut State University provides reasonable accommodations in accordance with the Americans with Disabilities Act and Section 504 of the Rehabilitation Act for students with documented disabilities on an individualized basis.  If you are a student with a documented disability, and would like to request academic accommodations, you are encouraged to contact Student Disability Services (SDS) at 860-832-1952, or email disabilityservices@ccsu.edu . Please visit the SDS website at http://www.ccsu.edu/sds/ to download an Intake form and documentation requirements. Once approved, SDS suggests that students discuss their approved accommodations with their professors, as well as any other additional medical emergency needs. Temporary impairments may also qualify for accommodations. Please note that accommodations are not retroactive and must be requested each semester.
 
-**Statement on Discrimination and Harassment**: Central Connecticut State University strives to maintain our campus as a place of work and study for faculty, staff, and students that is free of all forms of prohibited discrimination and harassment based upon age; ancestry, color; gender identity and expression; intellectual disability; learning disability; mental disorder; physical disability; marital status, national origin; race; religious creed; sex, (including pregnancy, transgender status, sexual harassment and sexual assault); sexual orientation; or any other status protected by federal or state laws. Any student who has concerns about should contact the Office of Diversity and Equity (ODE) at 860-832-1652, Student Affairs at 860-832-1601, or his/her faculty member. The ODE is located on the main floor of Davidson Hall, room 102.
 
-**Sexual Misconduct, Intimate Partner Violence and Stalking** Central Connecticut State University (CCSU) will not tolerate sexual misconduct against students, staff, faculty, or visitors in any form, including but not limited to: sexual assault, sexual exploitation, sexual harassment or stalking, as defined in CCSU policies. For additional information, please consult the CCSU policies at  http://www.ccsu.edu/diversity/policies/misconductProcedures.html. All faculty members and staff have a duty to report incidents of sexual harassment including sexual violence to Rosa Rodríguez, Title IX Officer, Office of Diversity and Equity, Davidson Hall, 102. To file a report contact: Diversity and Equity (860-832-1652); Student Affairs (860-832-1601); Student Conduct (860-832-1667) or the University Police (860-832-2375). For support and advocacy contact: Student Wellness Services at 860-832-1945 (confidential), the Women’s Center at 860-832-1655, the local YWCA’s Sexual Assault Crisis Services Hotline at 860-223-1787 (confidential) and Prudence Crandall Center for Domestic Violence (confidential) at 888-774-2900 (24-hour hotline).
+**Statement on Discrimination and Harassment**: Central Connecticut State University strives to maintain our campus as a place of work and study for faculty, staff, and students that is free of all forms of prohibited discrimination and harassment based upon age; ancestry, color; gender identity and expression; intellectual disability; learning disability; mental disorder; physical disability; marital status, national origin; race; religious creed; sex, (including
+pregnancy, transgender status, sexual harassment and sexual assault); sexual orientation; or any other status protected by federal or state laws.  Any student who has concerns should contact the Office of Diversity and Equity (ODE) at 860‐832‐1652, Student Affairs at 860‐832‐1601, or his/her faculty member.  The ODE is located on the main floor of Davidson Hall, room 102.
+
+**Sexual Misconduct, Intimate Partner Violence and Stalking** Central Connecticut State University (CCSU) will not tolerate sexual misconduct against students, staff, faculty, or visitors in any form, including but not limited to: sexual assault, sexual exploitation, sexual
+harassment or stalking, as defined in CCSU policies.  For additional information, please consult the CCSU policy at http://www.ccsu.edu/diversity/policies/BORSexualMisconductFeb2015.pdf.  All faculty members and staff have a duty to report incidents of sexual harassment including sexual misconduct, intimate partner violence and stalking to Rosa Rodríguez, Title IX Officer, Office of Diversity and
+Equity, Davidson Hall, 102.  To file a report contact: Diversity and Equity (860‐832‐1652), Student Conduct (860‐832‐1667) or Student Affairs (860‐832‐1601). For criminal complaints, contact the University Police (860‐832‐2375).  For support and advocacy contact:  Office of Victim Advocacy at 860‐832‐3795 or sarahdodd@ccsu.edu; Student Wellness Services at 860‐832‐1945 (confidential); Women’s Center at 860‐832‐1655; the local YWCA’s Sexual Assault Crisis Services Hotline at 860‐223‐1787 (confidential) and Prudence Crandall Center for Domestic Violence (confidential) at 888‐774‐2900 (24‐hour hotline).
 
 **How to succeed in CS 493**:
 
@@ -135,24 +138,24 @@ http://www.ccsu.edu/academicintegrity/
 
 ***Please note assignment dates are only to give you an idea of what assignments will cover and approximate time frame, actual dates will be set as the semester progresses***
 
-**Week 1 week of August 28**
+**Week 1 week of August 27**
 
 -   *Reading: Chapter 1 Secure Software Design*
 -   Introduction and background to secure software
 
-**Week 2 week of September 4**
+**Week 2 week of September 3**
 
--   *Labor day - No class Monday September 4th*
+-   *Labor day - No class Monday September 3rd*
 -   *Reading: Chapter 2 Secure Software Design*
 -   Current and emerging threats
--   Assignment 0 - Headshot and GitHub id
+-   Assignment 0 - GitHub id
 
-**Week 3 week of September 11**
+**Week 3 week of September 10**
 -   *Reading: Chapter 3 & 4 Secure Software Design*
 -   The network environment
 -   The OS environment
 
-**Week 4 week of September 18**
+**Week 4 week of September 17**
 -   *Reading: Chapter 4 & 5 Secure Software Design*
 -   The database environment
 
@@ -160,16 +163,16 @@ http://www.ccsu.edu/academicintegrity/
 
 -   *Assignment 1 - Systemic Threats*
 
-**Week 5 week of September 25**
+**Week 5 week of September 24**
 -   *Reading: Chapter 5 & 6 Secure Software Design*
 -   Security requirements planning
 
-**Week 6 week of October 2**
+**Week 6 week of October 1**
 -   *Reading: Chapter 7, 8, & 9 Secure Software Design*
 -   Development and implementation
 -   Vulnerability mapping
 
-**Week 7 week of October 9**
+**Week 7 week of October 8**
 
 -   Application review and testing
 
@@ -179,22 +182,22 @@ http://www.ccsu.edu/academicintegrity/
 
 -   *Assignment 2 - Secure Design*
 
-**Week 8 week of October 16**
+**Week 8 week of October 15**
 
 -   Culture of security
 
--   **Midterm Wednesday, October 18th**
+-   **Midterm Wednesday, October 17th**
 
-**Week 9 week of October 23**
+**Week 9 week of October 22**
 -   *Reading: Chapter 10 & 11 Secure Software Design*
 
 -   Web application threats
 
-**Week 10 week of October 30**
+**Week 10 week of October 29**
 
 -   Secure data management
 
-**Week 11 week of November 6**
+**Week 11 week of November 5**
 
 -   Intrusion Detection Systems
 
@@ -207,7 +210,7 @@ http://www.ccsu.edu/academicintegrity/
 
 -   *Assignment 3 Intrusion Detection Sytems*
 
-**Week 12 week of November 13**
+**Week 12 week of November 12**
 
 -   Language-based approaches
 
@@ -215,21 +218,21 @@ http://www.ccsu.edu/academicintegrity/
 
 -   *Final project sprint 1*
 
-**Week 13 week of November 20**
+**Week 13 week of November 19**
 
 - *Thanksgiving recess*
 
 
-**Week 14 week of November 27**
+**Week 14 week of November 26**
 
 -   Zero day and beyond
 
 -   Bringing it all together
 -   *Final project sprint 2*
 
-**Week 15 week of December 4**
+**Week 15 week of December 3**
 
--   ***Final projects due 12/4***
+-   ***Final projects due 12/3***
 
 -   Final project presentations
 
@@ -237,6 +240,6 @@ http://www.ccsu.edu/academicintegrity/
 
 **Final Exam**
 
--   Monday, December 11th
+-   Wednesday, December 12th
 
     -   5:30-7:30pm
